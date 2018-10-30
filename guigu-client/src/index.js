@@ -5,7 +5,4 @@ import {Button} from 'antd-mobile';
 
 
 
-ReactDOM.render(
-    <Button type='primary'>学习</Button>,
-    document.getElementById('')
-)
+ReactDOM.render(<Button type='primary'>学习</Button>, document.getElementById('app'))
